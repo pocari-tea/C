@@ -1,0 +1,11 @@
+using
+namespace std;
+cout
+endl;
+typedef
+struct
+void
+int
+string
+#include
+iostream

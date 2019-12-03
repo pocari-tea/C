@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Method\Method03\bin\Debug\Method03.exe.config
+C:\Users\USER\source\repos\Method\Method03\bin\Debug\Method03.exe
+C:\Users\USER\source\repos\Method\Method03\bin\Debug\Method03.pdb
+C:\Users\USER\source\repos\Method\Method03\obj\Debug\Method03.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Method\Method03\obj\Debug\Method03.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Method\Method03\obj\Debug\Method03.exe
+C:\Users\USER\source\repos\Method\Method03\obj\Debug\Method03.pdb

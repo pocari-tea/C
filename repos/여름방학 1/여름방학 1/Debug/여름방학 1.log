@@ -1,0 +1,40 @@
+﻿  소스.c
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(23): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(24): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(24): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(25): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(45): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(46): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(46): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(47): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(67): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(68): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(68): warning C4133: '함수': 'int [8]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(69): warning C4133: '함수': 'int [8]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(15): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[8]'입니다.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\source\repos\여름방학 1\여름방학 1\소스.c(100): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  여름방학 1.vcxproj -> C:\Users\USER\source\repos\여름방학 1\Debug\여름방학 1.exe

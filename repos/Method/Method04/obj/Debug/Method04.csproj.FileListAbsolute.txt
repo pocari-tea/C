@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Method\Method04\bin\Debug\Method04.exe.config
+C:\Users\USER\source\repos\Method\Method04\bin\Debug\Method04.exe
+C:\Users\USER\source\repos\Method\Method04\bin\Debug\Method04.pdb
+C:\Users\USER\source\repos\Method\Method04\obj\Debug\Method04.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Method\Method04\obj\Debug\Method04.exe
+C:\Users\USER\source\repos\Method\Method04\obj\Debug\Method04.pdb
